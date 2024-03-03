@@ -1,0 +1,86 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+input {
+  margin-bottom: 10px;
+  padding: 5px;
+  max-width: 100px;
+  border-radius: 20px;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.cadastrar{
+  background-color: #2bcabd;
+  color: #fff;
+  padding: 8px 15px;
+  border: none;
+  border-radius: 20px;
+   margin-left:10px;
+  margin-right: 10px;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+button {
+  background-color: #2bcabd;
+  color: #fff;
+  padding: 8px 15px;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+  margin-right: 10px;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+button:hover {
+  background-color: #7c8792;
+  padding-right: 100px;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+
+}
+
+.carrosCadastrados {
+  list-style-type: none;
+  padding: 0;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+html{
+  background-image: linear-gradient(to right,  #f0f0f0, #2654d3);
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.carrosCadastrados li {
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+.carrosCadastrados p {
+  margin: 5px 0;
+}
+
+.carrosCadastrados button {
+  background-color: #1dbdda;
+}
+
+.carrosCadastrados button:hover {
+  background-color: #d80b1f;
+}
+H3{
+  margin-left: 40px;
+}
+h1{
+  text-align: center;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+label, input{
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+ul{
+  display:inline-table;
+}
