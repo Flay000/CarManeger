@@ -16,7 +16,7 @@ npm i @prisma/client
 Para rodar o projeto
 No seu terminal, dentro do 
 arquivo LoginCar execute:
-docker-compose -up
+docker-compose up
 
 Depois, tambem dentro
 de LoginCar, execute:
